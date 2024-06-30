@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshitha.K</h1>
+<h1 align="center">👋 Hi ! Good to have you all</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshi-12367&label=Profile%20views&color=0e75b6&style=flat" alt="harshi-12367" /> </p>
